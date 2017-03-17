@@ -5,7 +5,7 @@
 * Sean Challoner: Developer
 * Borislav Krumov: System Analyst
 * Jordan Townsend: System Analyst
-* Matt Carlin: 
+* Mat Carlin: Developer
 
 
 Site logo: To be added
